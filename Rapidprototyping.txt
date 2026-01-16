@@ -1,0 +1,39 @@
+			Development			Prototyping
+
+Purpose			Deliver working software	Gather knowledge
+
+Preparation		User stories			Questions
+			Acceptance criteria
+			Requirements
+			Specifications
+
+Process			Structured			Improvised
+			Planned				Experimental
+
+Developers		All				One, maybe two or three
+			(Continuous Integration)
+
+Version control		Commit to master		None or branch or ad hoc
+
+Integration		Build pipeline			No
+			CI / CD	
+
+Quality			Yes				No. To be thrown out.
+
+Mindset			Do it right			Try it out, see what happens
+
+Success criteria	Definition of Done		New insights
+			New questions
+			Fast
+
+Final product		Delivery to customers	Answers and decisions
+
+
+		Somewhere in between
+	Slower than prototyping
+	Lower quality than development
+	Build the solution before fully understanding the problem
+	Bad code goes into master
+	Temporary experiments become permanent decisions
+	Many possibilities are not explored
+	Never do this
